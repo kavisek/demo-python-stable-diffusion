@@ -1,6 +1,6 @@
-# template-workspace
+# Demo: Stable Diffusion
 
-{description}
+This is a demo of the stable diffusion algorithm. Running locally with python. 
 
 ## Setup
 
